@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The malice of the rebellious husband-men against the true heir plainly discovered in this brief reply to the blasphemies, lies, and slanders, of Ra. Austen / by James Jackson ...</title>
+            <author>Jackson, James, fl. 1674-1708.</author>
+         </titleStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46879</idno><idno type="EEBO-CITATION">12363468</idno>
+  <idno type="VID">60335</idno>
+  <idno type="EEBO-PROQUEST">2240961096</idno>
+  
+            <idno type="STC">Wing J74</idno>
+            <idno type="STC">ESTC R22440</idno>
+            <idno type="OCLC">12363468</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46879)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60335)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 892:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The malice of the rebellious husband-men against the true heir plainly discovered in this brief reply to the blasphemies, lies, and slanders, of Ra. Austen / by James Jackson ...</title>
+                  <author>Jackson, James, fl. 1674-1708.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Austen, Ralph, d. 1676.</term>
+               <term type="topical_term">Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60335:1"/>
+            <pb facs="tcp:60335:1"/>
+            <p>THE MALICE OF THE Rebellious Husband-men AGAINST The True Heir. Plainly discovered In this Brief REPLY TO THE Blasphemies, Lies, and Slanders, of <hi>Ra. AUSTEN.</hi>
+            </p>
+            <p>By <hi>JAMES JACKSON,</hi> Author of the Strong Man Armed Cast out, <hi>&amp;c.</hi>
+            </p>
+            <q>
+               <p>Behold ye despisers, and wonder; for a work is wrought in your days, which ye will not believe, though it be told you.</p>
+               <p>And when they saw him, they said one to another, this is the Heir, come let us kill him, that the Inheritance may be ours.</p>
+            </q>
+            <p>
+               <hi>Printed in the Year 1676.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:60335:2"/>
+            <pb n="1" facs="tcp:60335:2"/>
+            <opener>
+               <salute>Ra. Austen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Regard not the Censures of wicked and un<g ref="char:EOLhyphen"/>reasonable men, 'Tis the living God that searcheth and tryeth my heart and reins; and since he justifies, who can condemns yea, and I am known to many Thousands in <hi>England,</hi> yet know I not one person that will, or at least justly can, accuse me of any one of those damnable practices wherewith thy Book is stuft against me, who am a perfect Stranger to thee.</p>
+            <p>But no marvel thou sparest not to traduce me and others, when thou dreads not to shoot so many envenomed Arrows against the manifest appearance of the Son of God, who is come the second time without sin unto salvation; and hath set up his Kingdom in the hearts of a Despised Remnant, and is Revealing his out-stretched Arm to all Nations, that the Inhabitants of the Earth may learn Righteousness, and partake of his Sal<g ref="char:EOLhyphen"/>vation.</p>
+            <p>Now this is that which makes thee, and all the Merchants of <hi>Babylon</hi> angry, To hear of the great Shepherd and Bishop of Souls, That he is come to lead and feed his Flock himself, And that the gathering of the People must be only unto him.</p>
+            <p>This is that little Stone which is smiting the Image, which though it be part Gold, part Silver, <hi>&amp;c.</hi> yet his Feet are discerned to be mire, and clay, with Iron, so not able to abide the day of his coming, but is falling, and shall be utterly overthrown by his power, though his first manifestation be counted as the day of small things.</p>
+            <p>And therefore I say 'tis for his sake, that thou, and others like thee, are so full of indignation, blood, and revenge, against all that love his appearance.</p>
+            <p>Nay, for thy part <hi>Ra. Austen,</hi> Thy Book bespeaks thee to be transported with inveterate madness, insomuch, That thou re<g ref="char:EOLhyphen"/>gards not what thou writest against him or us, nor how thou be<g ref="char:EOLhyphen"/>lyes and contradicts thy self.</p>
+            <pb n="2" facs="tcp:60335:3"/>
+            <p>I have perused it, but will not trouble the Reader, nor my self, with the many absurdities, impertinencies, tautologies, lies, contradictions, and blasphemies, therein abounding; but hint only some few particulars, that all men may see how thou hast bely'd us, contradicted thy self, and blasphemed our principle, which is the everlasting truth of God.</p>
+            <p>
+               <note place="margin">p. 6.</note>Thou writes thus, <hi>I shall not speak to reproach thee, or rail upon thee, or any of thy way; I say</hi> (saist thou) <hi>I will not bring against thee railing accusations,</hi> (well spoken <hi>Austen</hi>) but are not these fair speeches of thine lies in Hypocisie, (to use thy own words) which thou so often and falsely chargest upon us.</p>
+            <p>
+               <note place="margin">Ep. to R.</note>For thou calls me as dangerous a person, with as subtile insi<g ref="char:EOLhyphen"/>nuating as thou ever yet met with: That in my Book intituled, <hi>The strong man armed cast out,</hi> I assert and maintain a false princi<g ref="char:EOLhyphen"/>ple, <hi>viz. That the true light is in every man and woman, and is suffi<g ref="char:EOLhyphen"/>cient, being believed in and obeyed, to bring them to Salvation,</hi> and, <hi>That whosoever will not receive and own this Doctrine, are accounted by me, Enemies to Christ;</hi> and then charges me with lies in Hypo<g ref="char:EOLhyphen"/>crisie and Blasphemies, because I assert this principle, and calls me uncircumcised Philistine, that do challenge and defie the Hosts and Armies of the living God, the Churches and Congregations of the Saints.</p>
+            <p>To which I reply, The Scriptures bear Testimony, <hi>That Christ is the true Light, that inlighteneth every man that comes into the world.</hi> So that there is the Light of Christ in every man and wo<g ref="char:EOLhyphen"/>man: and this is no more a natural light, then the life of Christ is a natural life. For 'tis said, <hi>in him was life, and the life was the light of men;</hi> so that the light in man proceedeth from the life of Christ.</p>
+            <p n="2">2. But where in all my Book before named dost thou read these words, <hi>viz. That the true Light is in every man and woman,</hi> although a measure of it, I affirm, according to Scripture, hath shone in, and appeared unto, all men; and is sufficient for Salvation.</p>
+            <p n="3">3. They that receive not this Doctrine are Enemies to God, and to their own Souls: <hi>For this is the Condemnation, that Light is come into the world, but men love Darkness rather then Light, be<g ref="char:EOLhyphen"/>cause their deeds are evil.</hi>
+            </p>
+            <p n="4">4. I will here appeal to the Consciences of men, and to the wit<g ref="char:EOLhyphen"/>ness of God in thee, whether thou or I be that bold daring pre<g ref="char:EOLhyphen"/>sumptuous Philistine, that defies the power and followers of the Living God.</p>
+            <pb n="3" facs="tcp:60335:3"/>
+            <p>Thou art indeed Angry with, and ingag'd against the King of Saints, the true and rightful Heir, who is come to take possession.</p>
+            <p>Wo unto thee <hi>Austen,</hi> for thou art one with those Husband<g ref="char:EOLhyphen"/>men, who despise the Heir, and therefore conspire against him to keep him out of his Inheritance; for where he comes to inherit, thence immediately parts all Babylonish trash and trumpery, de<g ref="char:EOLhyphen"/>ceit, sorcery, and witchcraft, and every unclean thing, Then down falls the False Prophet, the hireling Priest, yea, and beg<g ref="char:EOLhyphen"/>ging Priests too.</p>
+            <p>There will then be no more Sale for their Wares and Merchan<g ref="char:EOLhyphen"/>dize, Then all false Births, Paintings, Images, dead Forms, and outward Worships, must all tumble into the dirt. And this is the reason why Thou <hi>Ra. Austen</hi> and <hi>Tho. Hicks,</hi> who thou so often quotes, <hi>&amp;c.</hi> are so full of fury and indignation at his appea<g ref="char:EOLhyphen"/>rance in the hearts of men and women at this Day.</p>
+            <p>Here thou chargest me and others in these words,<note place="margin">p. 66.</note>
+               <hi>Thou art</hi> (saist thou) <hi>in the gall of bitterness, and bond of Iniquity. Thy Fruits discover thee to be a very corrupt tree, bringing forth soure, bitter, poisonous, deadly fruits. Thy grapes are grapes of gall, and thy clusters bitter; and the like are the fruits of the leading Quakers amongst you, thou and they bring forth false Doctrines, Errors, Here<g ref="char:EOLhyphen"/>sies and Blasphemies against God, his people, and his truth; ye give heed to seducing Spirits, and Doctrines of Devils, speaking lies in Hypocrisie.</hi> And to make this good, cites my Book p. 12. and saith, that I say, of many Thousands of the Lords peculiar people, <hi>That they build not upon the true Foundation Jesus Christ, &amp;c.</hi> And then <hi>Austen</hi> breaks forth into a great rage, and saith in these words, <hi>Now let me tell thee thou false Tongue, set on fire of Hell, hadst thou the true Light in thee indeed</hi> (as thou saist of thy self) <hi>thou wouldst sooner have chosen to have had thy tongue cut out, then to have spoken this Lye in Hypocrisie, or to have had thy head cut off, then to have wrote it; For if it be better for a man that a Milstone was hanged about his Neck, and to be cast into the Sea, then to offend one of those little ones that believe in Christ, what thinkest thou will be the punish<g ref="char:EOLhyphen"/>ment of him that offends so many Thousands.</hi> So far <hi>Austen.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> 1. Are not these reproachful speeches, and railing accu<g ref="char:EOLhyphen"/>sations both against me and others, contrary to thy word? Art thou not now <hi>Ra. Austen,</hi> guilty of Lies in Hypocrisie.</p>
+            <p n="2">2. But what ailes the man to be in such a hear, sure something's the matter more then ordinary, for ye don't find him throughout his book to be so outragious as in this place.</p>
+            <p n="3">
+               <pb n="4" facs="tcp:60335:4"/>3. Because therefore he hath neither fully nor fairly cited that particular of mine, which occasions this fret, and doth so vex him, that instead of propounding solid arguments against me, he runs into most bitter invectives, I shall introduce that par<g ref="char:EOLhyphen"/>ticular at large, for the clearing of Truth, the satisfaction of the Reader, and stopping the mouth of this peevish Enemy, my words are, <q>These, having plainly declared the reason of my departing from those Assemblies, I shall witness faithfully to the truth, as it is known and practiced by the holy People of God called Quakers, with whom I now walk, and of whom I declare and testifie, That they are built and rooted in and upon the right Foundation, even Christ Jesus the Lord, who is their Wis<g ref="char:EOLhyphen"/>dom, Righteousness, Sanctification, and Redemption, in whom alone they are justified and saved, That Root from whence they receive life, nourishment, power and growth, is the only Foun<g ref="char:EOLhyphen"/>dation of the Prophets and Apostles, the Rock of Ages, the Stone which your Builders and their Brethren the Priests, ever rejected, disallowed, and set at nought, which is Christ in us, the hope of glory; whereupon it is evident, That we differ in the Root from all the people of the World, though of several forms and perswasions; for plainly the Papists, Prelates, Presbi<g ref="char:EOLhyphen"/>ters, Baptists and Independants, though they all differ in their Forms, Appearances, and circumstantial Opinions, yet do they all agree, and meet in one and the same Faith, Foundation and Root.</q>
+            </p>
+            <p>
+               <q>The word and writings, declarations and testimonies of the Saints recorded in Scripture, are the foundation and ground of all other professing people in the world (as they pretended) and all of them being Strangers to that one Spirit that gave forth the Scriptures, are <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>un into several Sects and Opinions, as they do carnally understand and conceive they have Rule and Teaching in the Bible; but however they will own no other Light, Law, Gospel, Rule, Revelation, and word of God, but their Bibles, <hi>[viz. for their Foundation and Rules,]</hi> But now this peculiar people, whom the Lord hath gathered from amongst all the Babylonish confusions and divisions under Heaven, are built upon the Foundation of the Prophets and Apostles, Jesus Christ himself being the Chief Corner Stone, in whom all the building fitly framed together, groweth into an Holy Temple in the Lord, so that they receive immediate Light, Life, Power, Rules, Refreshing, Revelation, Peace and Satisfaction, from that
+<pb n="5" facs="tcp:60335:4"/> word which was before the World was made, even that Life, Power, Foundation, Root, Spring, and Fountain, in and by which the holy Prophets and Apostles were quickned, enlight<g ref="char:EOLhyphen"/>ned, anointed, inspired, and gave forth the Scriptures, which is Christ Jesus the word of God, the power of God, the Son of God, the Light within, the only Saviour of the world.</q>
+            </p>
+            <p>Now I desire the Candid Reader to observe these two things betwixt me and mine adversary in hand. 1. How disingenuously and impertinently he answers my Assertions. 2. How this last recited particular shakes him at Root, and occasions such a great Commotion in his Spirit, that like the troubled Sea, he casts forth nothing but mire and dirt; but I have not done with him yet.</p>
+            <p>
+               <hi>Rep.</hi> 4. But pray thee <hi>Ra. Austen,</hi> how ill do's this become thee thus to scandalize and reproach the Leading Quakers,<note place="margin">P. 66.</note> as thou calls them, I say, how ill do's this become thee to call those spreaders of false Doctrines, Errors, Heresies, <hi>&amp;c.</hi> with thy Pen, whom thou hast justified and commended with thy Tongue, and at the same <hi>juncto,</hi> thou went to most meetings of Friends in <hi>London,</hi> and heard several Friends declare; nay, after thou hadst heard <hi>Alexander Parker,</hi> thou went to him, and discours'd with him, and came and told <hi>B. Clarke,</hi> Stationer in <hi>George Yard Lum<g ref="char:EOLhyphen"/>bard-street,</hi> how sound thou found this <hi>Parker,</hi> and how well thou liked such and such, and could willingly joyn with them. Ah thou self-condemning <hi>Pharisee,</hi> what kind of dissimulation is this; who speaks Lies in Hypocrisie like unto thee? wilt thou charge others with dissembling, against whom thou canst prove no evil, and prove thy self such a Cheat, such a deceitful deluding soothsayer, as no civil society of men will tolerate.</p>
+            <p>But to proceed: This Author tells us,<note place="margin">P. 77. P. 23.</note>
+               <hi>That the Scriptures are Christs love Letters to Mankind, of the Spirit speaking in the Scrip<g ref="char:EOLhyphen"/>tures</hi> (a strange and unscriptural expression) Well, but he brings it in often, and speaks of the Scriptures Revealing of Christ;<note place="margin">P. 25.</note>
+               <hi>and how can a man know Christ, or believe in him, but by the Scriptures. A light to our paths, yea to our inward paths;</hi>
+               <note place="margin">P. 27. P. 75.</note>
+               <hi>And the tryer of Spi<g ref="char:EOLhyphen"/>rits, and the word of God;</hi> but chargeth us, <hi>that we sleight and undervalue the Scriptures, and teach others to do so too;</hi> and there<g ref="char:EOLhyphen"/>fore calls us <hi>unreasonable and unthankful men, and infatuated.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> 1. There's no people that I know upon earth, whose prin<g ref="char:EOLhyphen"/>ciples, Lives, and Doctrines, are more consonant to the holy Scrip<g ref="char:EOLhyphen"/>tures then ours.</p>
+            <p n="2">
+               <pb n="6" facs="tcp:60335:5"/>2. We esteem the Scriptures as a true testimony of Christ.</p>
+            <p n="3">3. We slight not nor undervalue the Scriptures, neither do we teach others so to do; for they are of special service unto us in many cases; and serve also for the commending of our principles, live, and doctrines, to the Consciences of men, nevertheless we prefer Christ before them,<note place="margin">Rev. 19.13</note> for he was before them, and his name only is called the word of God.</p>
+            <p>But <hi>Ra. Austen,</hi> wilt not thou believe that thy Bible (if thou hast one) is made up of Creatures? If so, why then, like the unbelieving Jew, dost thou think in it, or from it, to receive the Spirit or Revelation of Christ, or that therein thou shalt have everlasting life; I tell thee thy perswasion is unscriptural, irra<g ref="char:EOLhyphen"/>tional, and Idolatry; for <hi>he only that hath the Son hath Life, but he that hath not the Son of God, hath not Life,</hi> though he have an hun<g ref="char:EOLhyphen"/>dred Bibles.</p>
+            <p n="5">5. If the Scriptures be Gods love Letters to mankind, Then why do the teachers of your several Societies make merchandize hereof, and sell them up and down the Countries, as Mounte<g ref="char:EOLhyphen"/>banks deliver out their Wares for ready mony: And when they have made up a parcell thereof, as the Apothecary dispenseth his Bills, will sell a parcel of their own composing, for 5 10 or 20 l. per parcell, and to another place with the same parcell, and make as much more of it, and yet say these are Christs Love Letters to mankind, when in truth they use them to gull and cheat the sim<g ref="char:EOLhyphen"/>ple of their mony, whereby some Families, to my observation, have been so fearfully Priest-ridden, that they and their poste<g ref="char:EOLhyphen"/>rity have been utterly impoverished.</p>
+            <p n="6">6. As for the Spirit speaking in the Scriptures, 'tis such an ex<g ref="char:EOLhyphen"/>pression as the Bible gives no warrant to credit. I read of the Spirit speaking in men, but never heard of the other before. In fine, this I affirm, That the Spirit of God speaketh neither through thee, nor in thy Book; for the Scriptures say, <hi>no man speaking by the Spirit of God, calleth Jesus Christ accursed; neither can any call Jesus the Lord, but by the Holy Ghost.</hi>
+            </p>
+            <p n="7">7. In the last place, As to the preceding matter, I reply, and desire the impartial Reader to take notice, That the Scriptures do not testifie of themselves, or bear witness for themselves, but the whole scope and tendency of them is, to direct to another object; yea, let me come near to you, they point mankind to a living inward principle, to an inward Law, to an inward Temple,
+<pb n="7" facs="tcp:60335:5"/> an inward Word and Worship, to an inward Teacher and Com<g ref="char:EOLhyphen"/>forter, and to an inward Kingdom, <hi>&amp;c.</hi> as will more fully appear to thy satisfaction, if thou consul but these few, instead of many.</p>
+            <p>
+               <hi>The word is nigh thee,</hi> saith <hi>Moses, even in thy heart, &amp;c.</hi> so Ro. 10.8.<note place="margin">Deut. 30.14. Job 6.31.</note>
+            </p>
+            <p>
+               <hi>Is not my help in me,</hi> saith <hi>Job, and is wisdom quite driven from me.</hi>
+            </p>
+            <p>
+               <hi>And,</hi> saith he, <hi>why persecute you me without cause, seeing the root of the matter is in me.</hi> chap. 19.28.</p>
+            <p>
+               <hi>There is a Spirit in man and the inspiration of the Almighty giveth them understanding,</hi> 32.8.</p>
+            <p>
+               <hi>The Law of his God is in his heart, none of his steps shall slide.</hi>
+               <note place="margin">Psal. 37.31 51.6.</note>
+            </p>
+            <p>
+               <hi>Behold, thou desirest truth in the inward parts, and in the hidden parts thou shalt make me to understand wisdom.</hi>
+            </p>
+            <p>
+               <hi>Thy word have I hid in my heart, that I may not sin against thee.</hi>
+               <note place="margin">119 11. Prov. 4.23.</note>
+            </p>
+            <p>
+               <hi>Keep thy heart with all diligence, for out of it are the issues of life.</hi>
+            </p>
+            <p>
+               <hi>Isaiah, Jer. Ezekiel,</hi> and other the Prophets, spake of Gods giving his Spirit, and putting it in man, and of writing his Law in their hearts, <hi>&amp;c.</hi> So Christ in all his Doctrine and Parables, di<g ref="char:EOLhyphen"/>rected to an inward Spiritual Worship, <hi>&amp;c.</hi>
+               <note place="margin">Luke 17.21. Rom. 1.19</note> And expresly told the Scribes and Pharisees, <hi>That the Kingdom of God was within them,</hi>
+            </p>
+            <p>And saith <hi>Paul, That which may be known of God is manifest in men; for God hath shown it to them.</hi>
+            </p>
+            <p>
+               <hi>He is not a Jew that is one outwardly,</hi>
+               <note place="margin">2.28</note>
+               <hi>neither is that Circumcision which is outward in the flesh; but he is a Jew that is one inwardly, and Circumcision is that of the heart in the Spirit,</hi> &amp;c.</p>
+            <p>
+               <hi>For God who commanded the Light to shine out of Darkness,</hi>
+               <note place="margin">2 Cor. 4.6.</note>
+               <hi>hath shined in our hearts, to give the Light of the knowledge of the glory of God in the face of Jesus Christ: but we have this treasure in earthen Vessels, that the excellency of the power may be of God, and not of us.</hi>
+            </p>
+            <p>
+               <hi>Examine your selves, prove your own selves,</hi>
+               <note place="margin">2 Cor. 13.5.</note>
+               <hi>know you not your own selves, how that Jesus Christ is in you, except ye be Reprobates.</hi>
+            </p>
+            <p>
+               <hi>Wherefore laying apart all filthiness and superfluity of naughtiness,</hi>
+               <note place="margin">Ja. 1.21.</note>
+               <hi>receive with meekness the ingrafted word, which is able to save your Souls.</hi>
+            </p>
+            <p>
+               <hi>We have also a more sure word of prophecy,</hi>
+               <note place="margin">2 Pet. 1.19</note>
+               <hi>unto which ye do well to give heed, as to a Light that shines in a dark place till the day dawn, and the day-star arise in your hearts.</hi>
+            </p>
+            <p>Now it is evident from these, as well as from many other plain Scripture testimonies, <hi>That there is an inward manifestation of God,</hi> and the Scriptures say, <hi>whatever makes manifest is Light:</hi> And <hi>Peter</hi> in the last recited text saith, <hi>they do well that take heed to this
+<pb n="8" facs="tcp:60335:6"/> inward manifestation;</hi> and calls it, <hi>the sure word of Prophecy, a Light that shines in a dark place.</hi> Now what place is more dark then the hearts of natural men; nevertheless, the Light shines in that darkness. And where any give heed to it, though its first appearance be very small, yet there, and in them only, that have respect unto this Light, doth the day of God dawn; and in their hearts only doth the bright and morning Star arise with healing under his wings: so that although a measure of this saving Light be universally dispensed into the inward parts of mankind; yet they only that are found in the well doing <hi>Peter</hi> speaks of, that is, taking heed thereto, shall receive saving benefit thereby: For though we own, and the Scripture bears witness with us, That there is an inward worship, The word nigh us, The Law written in the heart, and the Light within; yet we say, what are any hereby the better, that love not this inward Law, that heed not the Light within, and are not in that worship which is in spirit and truth. But lets see and consider a little what <hi>Ra. Austens</hi> sense is touching this inward principle, or the Light within.</p>
+            <p>See his Book page 11. <hi>What Saul did against Jesus of</hi> Nazareth, <hi>was from the Light within.</hi>
+            </p>
+            <p>P. 28. <hi>It is but Nature, it is not Grace.</hi>
+            </p>
+            <p>P. 45. <hi>An Idol, a false Christ.</hi>
+            </p>
+            <p>P. 67. <hi>The Light in men, all unregenerate men, is but Darkness, it is real natural Light, the Light of Reason, Ʋnderstanding, Con<g ref="char:EOLhyphen"/>science.</hi>
+            </p>
+            <p>P. 108, 109. <hi>Compares it to</hi> Baal, <hi>and bids cry aloud, for he is a God, but he is but a blind God: He hath eyes but he cannot see, ears but he cannog hear; hands and feet but be cannot move.</hi>
+            </p>
+            <p>P. 30. <hi>The Light within shall be in Hell for ever.</hi>
+            </p>
+            <p>From p. 45. to 55. <hi>Draws up, planteth and levelleth ten pieces of Ordinance against this Idol, this false Christ,</hi> The Light in every man and woman, <hi>that so it may fall as</hi> Dagon <hi>before the Arke:</hi> with a great deal more like unto these.</p>
+            <p>
+               <hi>Rep.</hi> 1. Unto whom I Reply, Many have uttered great Blas<g ref="char:EOLhyphen"/>phemies against the Truth, and acted in a high presumption against Christs appearance; but in my time, and to my knowledge, this I will say of thee, thou hath exceeded and out-done e'm all.</p>
+            <p n="2">2. If what <hi>Saul</hi> did against Jesus of <hi>Nazareth,</hi> was from the Light within, whence then were those pricks that he kickt against?</p>
+            <p n="3">
+               <pb n="9" facs="tcp:60335:6"/>3. Here I'le shew thee how absurdly thou contradicts thy self.</p>
+            <p>Page 109. Comparing the Light within to <hi>Baal,</hi> thou saist, <hi>he is a blind God, he hath eyes indeed but cannot see, ears but he cannot hear, hands and feet but he cannot move.</hi>
+            </p>
+            <p>Page 111, 112. Thou saist, <hi>there is a Light within, which discerns many things both good and evil, and acts towards or against them ac<g ref="char:EOLhyphen"/>cordingly. It sees, and works, and moves several ways towards that which appears to be good, according as it apprehends it, and against that which is evil, according to the measure of Light that is in the Conscience, which the worst of men have in them, and therefore are inexcusable in going against it.</hi>
+            </p>
+            <p>Let the Reader judge how much confounded thou art in this matter: But this is nothing with thee who heard Friends de<g ref="char:EOLhyphen"/>clare, bought Friends Books, and justified their Doctrines and Principles to <hi>Ben. Clarke,</hi> and yet hast forged those Lies in thy Book against us and our principles.</p>
+            <p n="4">4. These 10 pieces of Ordinance as thou calls them, and hast planted and levelled them against the Light within; I shall tell thee, they are not of Gods planting, neither hast thou levelled them against a tottering wall, but against that name only which is a strong Tower, even the Rock of Ages, wo unto thee <hi>Austen,</hi> for thou hast undertaken a most fearful, unprosperous, and self-destroying enterprize.</p>
+            <p>No weapon that ever yet was formed, or that at any time for ever hereafter shall be formed against it, shall prosper; and every tongue that riseth against it in Judgment, will God condemn.</p>
+            <p n="5">5. And who but such an Impostor as this <hi>Austen,</hi> nay, who but men infatuate, would trouble themselves, and take such pains to draw all their Forces out against that they call a Creature, an Idol, a God that is no better then <hi>Baal,</hi> then <hi>Dagon;</hi> I say what needs all this wast labour, Did not <hi>Dagon</hi> fall before the Arke without any of mans help. And if the Light within were not of God, it had fallen of it self long before now.</p>
+            <p>But I assure thee, thou and all thy partakers will find it that burdensome stone against which ye shall weary and wear out your selves in vain. Neither your black Mouths, your paper Guns, nor the gates of Hell, shall ever prevail against it.</p>
+            <p>In Fine, To what end is all this clamour, outrage, and Blas<g ref="char:EOLhyphen"/>phemy against truth, but to prejudice peoples hearts against the appearance of the Son of God: For whom this is my Testi<g ref="char:EOLhyphen"/>mony,
+<pb n="10" facs="tcp:60335:7"/> That as sure as the Spirit of God did inwardly strive with wicked sinners in the old world.</p>
+            <p>As certainly as he gave his holy Spirit to the disobedient <hi>Jews,</hi> but they rebelled against it:</p>
+            <p>So sure and certain I am, That the same God hath sent forth his Light and his Truth now in these day, into the hearts of the worst of men, to strive with them, and to convince them of sin, righteousness, and to deliver them from deceit, darkness, and death:</p>
+            <p>Yea, as sure as the Father sent his Son into the world, and he was therein, and the world knew him not, ye was the love uni<g ref="char:EOLhyphen"/>versal to all mankind, <hi>that whosoever believed in him should not perish, but have eternal life.</hi>
+            </p>
+            <p>I do affirm and testifie in the presence of God, Angels, and Men. That the same Jesus, according to his promise, is come again (in and by that Spirit that raised him from the dead) to set up and establish his Spiritual and Eternal Kingdom, in the hearts of men and women throughout the Nations, and make known his saving health to all people, to put an end to sin, and to bring in everlasting Righteousness, To whom be Glory and Obedience for ever.</p>
+            <trailer>The End.</trailer>
+            <pb facs="tcp:60335:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
